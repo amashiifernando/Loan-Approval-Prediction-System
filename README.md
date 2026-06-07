@@ -97,7 +97,6 @@ The dataset represents loan applications from Dream Housing Finance and contains
   [View Notebook](Loan_approval_prediction_project/code/finalcode.ipynb)
   
 * `dataset/`: Contains the dataset used. 
-  [View Dataset](Loan_approval_prediction_project/dataset/traindataset.csv)
 
 ---
 
